@@ -37,27 +37,27 @@ const app = new Vue({
 		postlist: [
 			// constructed Post item
 			new Post(
-				'First Post! Yay!', 		// this is the TITLE place in the class
+				'RiceGum and his career', 		// this is the TITLE place in the class
 				'https://google.com',	// this is the LINK place in the class
-				'An Author',			// this is the AUTHOR place in the class
-				'https://unsplash.it/200',	// this is the IMAGE place in the class
-				'Lorem ipsum dolor sit amet, consectetur.' // this is the BODY place in the class
+				'An Asian',			// this is the AUTHOR place in the class
+				'https://s-media-cache-ak0.pinimg.com/originals/1b/a6/a7/1ba6a7e51fa51bb02f6fcb9f4a2de289.jpg',	// this is the IMAGE place in the class
+				'RiceGum is a youtuber famous for his outstanding...uh...I mean... garbage diss tracks and funny slideshows.' // this is the BODY place in the class
 				),
 
 			new Post(
-				'Second Post: Lorem',
-				'https://vuejs.org',
-				'Sammie Author',
-				'img-200.jpg', // this is a local image in the same folder as the js script
-				'This has a local image. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi viverra euismod euismod. Nulla leo est, venenatis at fringilla eget, tincidunt sed justo. In efficitur dui odio, sit amet finibus sem hendrerit ut. Etiam vestibulum sem vel metus lobortis, vitae dictum metus sagittis. Nulla facilisi. '
+				'His made funny slide shows to roast people',
+				'https://www.youtube.com/watch?v=LZL3v9x7vpA',
+				'Another Asian',
+				'http://ytimg.googleusercontent.com/vi/nga1n0vhRNg/hqdefault.jpg', // this is a local image in the same folder as the js script
+				'RiceGum spends most of his time roasting other famous youtubers and people on the internet, he made many funny slide shows.(the title is a link to a collection of his slideshows)'
 				),
 
 			new Post(
-				'This Post: Crazy Fredrick',
-				'https://google.com',
-				'Bob Author',
-				'https://unsplash.it/200',
-				'Crazy Fredrick bought many very exquisite opal jewels.'
+				'RiceGum makes diss tracks, tbh he is bad at it',
+				'https://www.youtube.com/watch?v=VYScK5dlxGg',
+				'Another Asian',
+				'https://i.ytimg.com/vi/-LU0WZFeu0Y/0.jpg',
+				'he used his distracks to...also roast(click title to see his roast video).'
 				),
 
 			new Post(
